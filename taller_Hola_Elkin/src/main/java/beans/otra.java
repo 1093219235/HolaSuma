@@ -25,6 +25,6 @@ public class otra {
 	}
 	public int sumar()
 	{
-		return numero1+numero2;
+		return numero1-numero2;
 	}
 }

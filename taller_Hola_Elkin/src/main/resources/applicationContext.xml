@@ -7,8 +7,8 @@
 		<property name="mensaje" value="Hola Mundo con Spring" />
 	</bean>
 		<bean id="miBeanElkin" class="beans.otra">
-		<property name="numero1" value="2" />
-		<property name="numero2" value="4" />
+		<property name="numero1" value="10" />
+		<property name="numero2" value="2000" />
 	</bean>
 	
 </beans>
